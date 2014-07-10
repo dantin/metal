@@ -5,6 +5,8 @@ import java.util.List;
 
 /**
  * Generic Service interface
+ *
+ * @param <T>
  */
 public interface GenericService<T> {
 

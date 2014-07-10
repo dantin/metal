@@ -36,7 +36,7 @@ public class PrincipalExpressionRoot extends WebSecurityExpressionRoot {
 
     /**
      * whether principal has resource
-     * 
+     *
      * @param type
      * @param key
      * @return
